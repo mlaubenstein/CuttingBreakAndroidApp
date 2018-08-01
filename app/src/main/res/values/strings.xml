@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brüche kürzen leicht gemacht</string>
+    <string name="zaehler">Zähler eingeben</string>
+    <string name="nenner">Nenner eingeben</string>
+    <string name="button">Ergebnis</string>
+    <string name="clearZaehler">Clear</string>
+    <string name="clearNenner">Clear</string>
+</resources>
